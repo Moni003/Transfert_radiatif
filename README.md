@@ -16,3 +16,7 @@ Afin d'assurer une bonne compréhension des codes il faut suivre dans l'ordre le
 6/ **evol_ks_false.py** : Dans les codes précédents on a considéré que x=r2[1], y=r2[2], z=r2[0]. 
                       On pourrait naturellement penser qu'on doit avoir x=r2[0], y=r2[1], z=r2[2]. 
                       On verra grâce à ce code que prendre en compte la deuxième option est incorrecte. 
+
+
+
+![image](https://github.com/Moni003/Transfert_radiatif/blob/main/Images/luminance_animation.gif)
