@@ -19,5 +19,5 @@ Afin d'assurer une bonne compréhension des codes il faut suivre dans l'ordre le
 
 
 
-<img src="Images/luminance_animation.gif" alt="Description" width="500" height="500">
+<img src="Images/luminance_animation.gif" alt="Description" width="600" height="500">
 
