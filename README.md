@@ -1,4 +1,4 @@
-#Transfert radiatif dans le disque galactique par la méthode de Monte-Carlo
+# Transfert radiatif dans le disque galactique par la méthode de Monte-Carlo
 
 Afin d'assurer une bonne compréhension des codes il faut suivre dans l'ordre les étapes suivantes : 
 
