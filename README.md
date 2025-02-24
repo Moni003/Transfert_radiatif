@@ -19,4 +19,5 @@ Afin d'assurer une bonne compréhension des codes il faut suivre dans l'ordre le
 
 
 
-![image](https://github.com/Moni003/Transfert_radiatif/blob/main/Images/luminance_animation.gif)
+<img src="images/mon-image.png" alt="Description" width="300" height="200">
+
