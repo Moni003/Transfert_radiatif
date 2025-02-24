@@ -18,6 +18,6 @@ Afin d'assurer une bonne compréhension des codes il faut suivre dans l'ordre le
                       On verra grâce à ce code que prendre en compte la deuxième option est incorrecte. 
 
 
-
-<img src="Images/luminance_animation.gif" alt="Description" width="600" height="500">
-
+<p align="center">
+  <img src="Images/luminance_animation.gif" alt="Description" width="600" height="500">
+</p>
